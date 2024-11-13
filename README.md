@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![Screenshot (25)](https://github.com/user-attachments/assets/b394b2f6-a272-4c2f-81cb-e1de93f8dfd0)
+
 
 
 
@@ -65,8 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![Screenshot (22)](https://github.com/user-attachments/assets/61f6053e-43bf-48ca-9bcf-bfc03bf28386)
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
 
 
 iv)	Creating the new test cell view
@@ -78,8 +79,9 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
+![Screenshot (23)](https://github.com/user-attachments/assets/d70c33bb-b6e8-4cf5-a7fa-025ea891beab)
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+
 
 
  
@@ -94,14 +96,16 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/dc406ab5-c146-4b36-bbcf-8f5e0de4bc59)
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+![Screenshot (26)](https://github.com/user-attachments/assets/2d71e14a-c268-4410-a47b-5873befd459c)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+![Screenshot (24)](https://github.com/user-attachments/assets/db3bdfb3-8da3-4c5a-a782-20e9b5ffbf5e)
+
 
 
 Results:
